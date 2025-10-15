@@ -160,19 +160,6 @@ Os resultados desta análise fornecem insights valiosos para:
 - **Programas de fidelização** para novos clientes
 - **Modelos preditivos** de churn mais precisos
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-- Reportar bugs
-- Sugerir melhorias
-- Adicionar novas análises
-- Otimizar código existente
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Daniela Medeiros Batista**
